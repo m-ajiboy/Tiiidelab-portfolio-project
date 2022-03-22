@@ -1,0 +1,6 @@
+# Tiiidelab-portfolio-project![tiidelabportfolio1](https://user-images.githubusercontent.com/88254153/159401704-9f87c880-1935-4413-b418-ea0ce8016e26.png)
+![tiidelabportfolio2](https://user-images.githubusercontent.com/88254153/159401714-bf20478f-29dc-4adc-9abd-be383d9aa9ac.png)
+![tiidelabportfolio3](https://user-images.githubusercontent.com/88254153/159401726-36bcb31e-202f-43dc-80a9-b0ef4618b497.png)
+![tiidelabportfolio4](https://user-images.githubusercontent.com/88254153/159401728-245f43a3-7896-4a50-bef2-026d51cfd35c.png)
+![tiidelabportfolio5](https://user-images.githubusercontent.com/88254153/159401732-73f73f96-3116-4bd7-8f0e-420d681a971b.png)
+![tiidelabportfolio6](https://user-images.githubusercontent.com/88254153/159401736-1016cd08-3bc1-4d33-bc98-05ee5303d9d8.png)
