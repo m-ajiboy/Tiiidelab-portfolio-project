@@ -18,14 +18,14 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
-  height: 80vh;
+  height: 100vh;
   position: relative;
 }
 
 .header-overlay {
   background-color: rgba(0, 0, 0, 0.3);
   position: absolute;
-  height: 80vh;
+  height:100vh;
   width: 100%;
   top: 0;
 }
@@ -40,7 +40,7 @@ header {
 .logo a{
   font-size: 30px;
   font-weight: bold;
-  color: #f9320a;
+  color: #a7280f;
   text-decoration: none;
 }
 /* Navlinks */
@@ -59,7 +59,7 @@ header {
   margin: 10px;
 }
 .nav-link.active {
-  color: #f9320a;
+  color: #210c08;
 }
 
 .hero-wrapper {
@@ -206,7 +206,7 @@ section {
 text-align: center;
 color: #f9320a;
 text-transform: uppercase;
-margin-top: 50px;
+margin-top: 10px;
 
 }
 .project-card-wrapper{
@@ -411,7 +411,7 @@ margin-top: 50px;
 }
 
 .social-account-wrapper svg:hover{
-    color: #000;
+    col or: #000;
     cursor: pointer;
     bottom: 10px;
     position: relative;
@@ -422,7 +422,7 @@ margin-top: 50px;
 footer {
   background-color: black;
   padding-top: 0.8rem;
-  margin-top: 5px;
+  margin-top: 0px;
   margin-bottom: -2rem;
 }
 
