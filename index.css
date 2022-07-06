@@ -167,7 +167,7 @@ section {
 }
 
 .about-brief {
-  text-align: center;
+  text-align: justify;
   margin-top: 20px;
   line-height: 2;
 }
